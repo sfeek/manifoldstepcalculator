@@ -1,2 +1,2 @@
-# manifoldstepcalculator
-Manifold Calculator for a manual mill
+# radiusstepcalculator
+Radius Step Calculator for manual milling of radii.
